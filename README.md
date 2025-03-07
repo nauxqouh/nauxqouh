@@ -1,4 +1,4 @@
-### Xuan-Huong Nguyen - Passionate Data Science, Data Analytics
+### Xuan Huong Nguyen - Passionate Data Science, Data Analytics
 
 Hi there 👋🏻!!
 
