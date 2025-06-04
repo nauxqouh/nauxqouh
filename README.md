@@ -1,9 +1,5 @@
 ### Xuan Huong Nguyen - Passionate Data Science, Data Analytics
 
-Hi there 👋🏻!!
-
-I'm a highly-motivated person in Data Science major with a strong foundation in _Data Analytics_, _Machine Learning_, and _statistical modeling_. Passionate about extracting meaningful insights from data to drive informed decision-making. Skilled in data preprocessing, exploratory analysis, and modeling. Seeking an opportunity to apply analytical and technical skills in real-world projects while continuously learning and growing new things.
-
 <!--
 **nauxqouh/nauxqouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
