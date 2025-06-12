@@ -1,4 +1,4 @@
-### Xuan Huong Nguyen - Passionate Data Science, Data Analysis
+### Xuan-Huong Nguyen - Passionate Data Science, Data Analysis
 
 <!--
 **nauxqouh/nauxqouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
